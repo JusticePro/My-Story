@@ -1,7 +1,7 @@
 # My-Story
 
 <h1>Download</h1>
-You can download this <a href="releases">here</a>!<br>
+You can download this <a href="https://github.com/JusticePro/My-Story/releases">here</a>!<br>
 <h1>What does it do?</h1>
 My-Story is a application I created. My-Story allows you to generate user stories.<br>
 You can choose the user, the goal, and the reason; It will look something like this: "As a <user> I want to do <goal> so that <reason>."<br>
