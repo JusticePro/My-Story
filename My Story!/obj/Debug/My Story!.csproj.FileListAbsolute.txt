@@ -1,0 +1,9 @@
+c:\users\pcs for people\documents\visual studio 2015\Projects\My Story!\My Story!\bin\Debug\My Story!.exe.config
+c:\users\pcs for people\documents\visual studio 2015\Projects\My Story!\My Story!\bin\Debug\My Story!.exe
+c:\users\pcs for people\documents\visual studio 2015\Projects\My Story!\My Story!\bin\Debug\My Story!.pdb
+c:\users\pcs for people\documents\visual studio 2015\Projects\My Story!\My Story!\obj\Debug\My Story!.csprojResolveAssemblyReference.cache
+c:\users\pcs for people\documents\visual studio 2015\Projects\My Story!\My Story!\obj\Debug\My_Story_.Properties.Resources.resources
+c:\users\pcs for people\documents\visual studio 2015\Projects\My Story!\My Story!\obj\Debug\My Story!.csproj.GenerateResource.Cache
+c:\users\pcs for people\documents\visual studio 2015\Projects\My Story!\My Story!\obj\Debug\My Story!.exe
+c:\users\pcs for people\documents\visual studio 2015\Projects\My Story!\My Story!\obj\Debug\My Story!.pdb
+c:\users\pcs for people\documents\visual studio 2015\Projects\My Story!\My Story!\obj\Debug\My_Story_.Form1.resources
